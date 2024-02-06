@@ -4,8 +4,8 @@
         "data": [
             {
                 "key": "主页",
-                "name": "玉玉软件库（微信公众号）",
-                "api": "http://iqy.ax88.site/api.php/provide/vod/provide/vod/",
+                "name": "libvio",
+                "api": "https://www.libvio.fun/api.php/provide/vod/provide/vod/",
                 "download": "",
                 "jiexiUrl": "",
                 "group": "默认",
